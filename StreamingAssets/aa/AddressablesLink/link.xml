@@ -1,0 +1,58 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="BlendShapeSet" preserve="all" />
+    <type fullname="EmotionSnapper" preserve="all" />
+    <type fullname="HumanoidHeadAnimator" preserve="all" />
+    <type fullname="BlendWeights" preserve="nothing" serialized="true" />
+    <type fullname="EmotionSnapper/EmotionSet" preserve="nothing" serialized="true" />
+    <type fullname="MapLocal" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SALSA-LipSync, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CrazyMinnow.SALSA.Emoter" preserve="all" />
+    <type fullname="CrazyMinnow.SALSA.Eyes" preserve="all" />
+    <type fullname="CrazyMinnow.SALSA.QueueProcessor" preserve="all" />
+    <type fullname="CrazyMinnow.SALSA.Salsa" preserve="all" />
+    <type fullname="CrazyMinnow.SALSA.SalsaAdvancedDynamicsSilenceAnalyzer" preserve="all" />
+    <type fullname="CrazyMinnow.SALSA.EmoteExpression" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.Expression" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.ExpressionComponent" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.EyesExpression" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.InspectorControllerHelperData" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.LipsyncExpression" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.ProcDirection" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.ProcDirections" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.ProcTrans" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.ProcTransOffset" preserve="nothing" serialized="true" />
+    <type fullname="CrazyMinnow.SALSA.TformBase" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
